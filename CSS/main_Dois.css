@@ -1,0 +1,113 @@
+/*segunda main*/
+.main-dois{
+    background-color: #0e0e0e;
+    width: 100%;
+    height: 660.01px
+}
+
+.quantidades{
+    display: flex;
+    flex-direction: column;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+
+    color: #FFFFFF;
+
+    width: 273px;
+    height: 52px;
+    text-align: center;
+
+    margin-top: 110px;
+    gap: 50px;
+    
+
+    
+}
+
+.main-dois-info{
+    display: flex;
+}
+
+.arte-info{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #5A5757;
+    text-align: center;
+    margin-right: 30px;
+    /* display: flex;
+    justify-content: space-between; */
+}
+
+.comentarios{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+display: flex;
+
+width: 735px;
+height: 107px;
+margin-top: 110px;
+/* margin-left: 300px; */
+
+
+
+}
+
+.comentario-um{
+    margin-right: 120px;
+    margin-left: 100px;
+}
+
+.texto{
+    width: 359px;
+}
+
+.barra{
+    /* position:absolute; */
+    border: 1px solid #5A5757;
+    transform: rotate(89.91deg);
+    margin-left:3%;
+    /* width: 656px; */
+    width: 500px;
+    /* margin-bottom: 10%; */
+    height: 0px;
+}
+
+.imagem-oculos{
+    margin: 143px 0 0 257px;
+}
+
+.barra-horizontal{
+    border: 1px solid #5A5757;
+    transform: rotate(0.16deg);
+    margin-top: 23%;
+}
+
+.numero-artistas{
+    margin-right: 25px;
+}
+
+.numero-vendas{
+    margin-top: 30px;
+}
+
+.texto-cor-lo{
+    color: #FF5B50;
+}
+
+.texto-lo{
+    margin-top: 50px;
+    
+}

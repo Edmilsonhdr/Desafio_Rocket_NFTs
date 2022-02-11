@@ -1,0 +1,63 @@
+/*MAIN*/
+#main-um{
+    color: white;
+    display: flex;
+    margin-top: 180px;
+    justify-content: space-evenly;
+}
+
+.main-um-mercado{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+
+    width: 401px;
+    height: 88px;
+
+    margin-top: 13px;
+}
+
+.grupos{
+    display: flex;
+    margin-top: 73px;
+    
+    
+}
+
+
+.grupo-selecionado{
+    margin-top:50px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+}
+
+.h1-texto{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 61px;
+
+    color: #FFFFFF;
+
+    width: 596px;
+    height: 200px;
+}
+
+.h1-cor{
+    color: #FF5B50;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+}

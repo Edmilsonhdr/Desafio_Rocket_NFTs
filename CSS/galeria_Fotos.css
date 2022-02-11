@@ -1,0 +1,37 @@
+/*Galeria-de-fotos*/
+
+.conteiner-gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 150px;
+    gap: 20px;
+
+    /* border: 1px solid #FFFFFF;
+    box-sizing: border-box; */
+    
+}
+
+.card-dois{
+    margin-top: 28px;
+}
+
+.astronauta-um{
+     border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+}
+
+.astronauta-dois{
+    border: 1px solid #FFFFFF;
+   box-sizing: border-box;
+}
+
+.astronauta-tres{
+    border: 1px solid #FFFFFF;
+   box-sizing: border-box;
+}
+
+.astronauta-quatro{
+    border: 1px solid #FFFFFF;
+   box-sizing: border-box;
+}
